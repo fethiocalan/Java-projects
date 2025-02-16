@@ -1,2 +1,2 @@
-# Java-projects
+# TABU game (Java)
 java projects
